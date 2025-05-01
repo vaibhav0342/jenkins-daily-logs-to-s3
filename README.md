@@ -31,8 +31,8 @@ jenkins-log-uploader/ │ ├── upload_jenkins_logs_to_s3.sh # Main script �
 
 ### 1. Clone this repository
 
-git clone https://github.com/your-username/jenkins-log-uploader.git
-cd jenkins-log-uploader
+git clone https://github.com/vaibhav0342/jenkins-daily-logs-to-s3.git
+cd jenkins-daily-logs-to-s3
 
 2. Set variables in the script
 Edit the top of upload_jenkins_logs_to_s3.sh:
